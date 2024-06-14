@@ -17,7 +17,7 @@ Here are some of my projects that demonstrate the range of my focus areas.
 Enhancing my skills in AWS services by completing the **AWS Certified Developer - Associate** online course on Udemy
 
 </br></br>
-<style>
+<!-- <style>
 @keyframes slide {
   0% {
     transform: translateX(-100%);
@@ -26,7 +26,7 @@ Enhancing my skills in AWS services by completing the **AWS Certified Developer 
     transform: translateX(100%);
   }
 }
-</style>
+</style> -->
 <footer align="center"> 
   <h4 style="color: rgb(79, 36, 122);">Profile Views</h4>
   <img src="https://profile-counter.glitch.me/{Pal-96}/count.svg" alt="Visitor Count"/>
