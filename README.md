@@ -1,18 +1,18 @@
 ![Header](./github-header-image.png)
 
-# About Me
+## About Me
 I'm a Software Engineer committed to continuous learning and upskilling especially in the field of Full Stack Engineering. I'm passionate about building socially impactful projects that can address pressing issues.
 Moreover, I truly appreciate a good sense of humour! 
 </br></br>
 
-# Technical Projects
+## Technical Projects
 Here are some of my projects that demonstrate the range of my focus areas.
 
 ![alt text](proj-sum.png)
 
 </br>
 
-# Current Engagement
+## Current Engagement
 
 Enhancing my skills in AWS services by completing the **AWS Certified Developer - Associate** online course on Udemy
 
