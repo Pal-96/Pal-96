@@ -1,0 +1,6 @@
+<svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="20" font-size="20">
+    <animate attributeName="x" from="-200" to="800" dur="8s" repeatCount="indefinite"/>
+    Thank You for Visiting !
+  </text>
+</svg>
