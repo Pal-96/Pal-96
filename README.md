@@ -15,7 +15,8 @@ Here are some of my projects that demonstrate the range of my focus areas.
 
 ## Current Engagement
 
-Enhancing my skills in AWS services by completing the **AWS Certified Developer - Associate** online course on Udemy
+- Enhancing my skills in AWS services by completing the **AWS Certified Developer - Associate** online course on Udemy
+- Learning Ukulele 🪕
 
 </br></br>
 <!-- <style>
