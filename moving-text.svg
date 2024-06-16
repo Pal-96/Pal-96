@@ -1,6 +1,6 @@
 <svg width="400" height="30" xmlns="http://www.w3.org/2000/svg">
   <text x="0" y="20" font-size="20" fill="rgb(79, 36, 122)" font-family="Arial, sans-serif" font-style="italic" font-weight="bold">
     <animate attributeName="x" from="-200" to="100%" dur="8s" repeatCount="indefinite"/>
-    Thank You for Visiting !!
+    Thank you for visiting !!
   </text>
 </svg>
