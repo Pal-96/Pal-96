@@ -23,7 +23,7 @@ Here are some of my projects that demonstrate the range of my focus areas.
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-FFD700?style=for-the-badge&logo=oracle&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend-end Development
+### Back-end Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
