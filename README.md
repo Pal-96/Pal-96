@@ -2,9 +2,7 @@
 
 ## About Me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjcHh1N3NqOGJ5M3hyajhoN2k0eWQydmdqZWp5dDFkZWVwY2x0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0GsNMsRwDKKMjiwIe5/giphy.webp" alt="About Me" width="25"/>
 
-I'm a Software Engineer committed to continuous learning and upskilling especially in the field of Full Stack Engineering. I'm passionate about building socially impactful projects that can address and contribute meaningfully to pressing issues.
-Throughout my career and ongoing Master's education I've developed expertise in building both server-side and client-side web applications, designing and managing databases, designing RESTful APIs. I have also collaborated with diverse customers in the Financial Services sector and cross-functional teams and have experience with the end-to-end software development lifecycle.
-On a side note, I truly appreciate a good sense of humour and love to play multiple musical instruments! 
+I'm a Software Engineer committed to continuous learning and upskilling, especially in the field of Full Stack Engineering. I'm passionate about building socially impactful projects that can address and contribute meaningfully to pressing issues. Throughout my career and ongoing Master's education, I've developed expertise in building both server-side and client-side web applications, designing and managing databases, and designing RESTful APIs. I have also collaborated with diverse customers in the Financial Services sector and cross-functional teams and have experience with the end-to-end software development lifecycle.
 </br></br>
 
 ## Technical Projects <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VoNjgzNmJ3ZzE5OGc1bzZtYWw3d3hkMXc4c3B3cHc3bHV3ZWl4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1E6n392K9E1lypVEM/giphy.webp" alt="About Me" width="25"/>
