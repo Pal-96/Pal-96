@@ -8,7 +8,7 @@ I'm a Software Engineer committed to continuous learning and upskilling, especia
 ## Technical Projects <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VoNjgzNmJ3ZzE5OGc1bzZtYWw3d3hkMXc4c3B3cHc3bHV3ZWl4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1E6n392K9E1lypVEM/giphy.webp" alt="About Me" width="25"/>
 Here are some of my projects that demonstrate the range of my focus areas.
 
-<img width="600" alt="Projects" src="https://github.com/Pal-96/Pal-96/assets/119008696/f633295d-3d67-4cd8-92f0-df1101bc3b2c">
+<img width="650" alt="Projects" src="https://github.com/Pal-96/Pal-96/assets/119008696/f633295d-3d67-4cd8-92f0-df1101bc3b2c">
 
 ## Technology Stack <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdnbjI0ODFmenEwczQ5emNjMHkyb3g2dGlnbjZnazdqdWdyOWh5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AjwKqoBdgRDIN6wI9/giphy.webp" alt="About Me" width="30"/>
 <div align="center">
