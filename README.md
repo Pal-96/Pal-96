@@ -69,7 +69,7 @@ Here are some of my projects that demonstrate the range of my focus areas.
 - Learning Ukulele 🪕
 
 </br>
-<footer align="center"> 
+<!-- <footer align="center">
   <h4 style="color: rgb(79, 36, 122);">Profile Views</h4>
   <img src="https://profile-counter.glitch.me/{Pal-96}/count.svg" alt="Visitor Count"/>
 
@@ -77,5 +77,5 @@ Here are some of my projects that demonstrate the range of my focus areas.
   <div style="display: inline-block; padding-left: 100%; animation: slide 10s linear infinite; center">
   </div>
 </div>
-</footer>
+</footer> -->
 <img src="./moving-text.svg" alt="Moving Text">
