@@ -9,7 +9,7 @@ Through my industry and M.S. experience, I've developed expertise in building sc
 ## Technical Projects <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VoNjgzNmJ3ZzE5OGc1bzZtYWw3d3hkMXc4c3B3cHc3bHV3ZWl4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1E6n392K9E1lypVEM/giphy.webp" alt="About Me" width="25"/>
 Here are some of my projects that demonstrate the range of my focus areas.
 
-<img width="626" alt="Projects" src="[https://github.com/user-attachments/assets/63c10cad-741d-4357-89a2-f4d44f7a6497](https://github.com/Pal-96/Pal-96/blob/main/proj-sum.png)">
+<img width="626" alt="Projects" src=https://github.com/Pal-96/Pal-96/blob/main/proj-sum.png">
 
 ## Technology Stack <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdnbjI0ODFmenEwczQ5emNjMHkyb3g2dGlnbjZnazdqdWdyOWh5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2AjwKqoBdgRDIN6wI9/giphy.webp" alt="About Me" width="30"/>
 <div align="center">
