@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-banner.png)
 
 ## About Me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjcHh1N3NqOGJ5M3hyajhoN2k0eWQydmdqZWp5dDFkZWVwY2x0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0GsNMsRwDKKMjiwIe5/giphy.webp" alt="About Me" width="25"/>
 
