@@ -1,5 +1,6 @@
 ![Header](./github-header-banner.png)
-
+<div>
+ 
 ## About Me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjcHh1N3NqOGJ5M3hyajhoN2k0eWQydmdqZWp5dDFkZWVwY2x0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0GsNMsRwDKKMjiwIe5/giphy.webp" alt="About Me" width="25"/>
 
 I'm a Software Engineer committed to continuous learning and upskilling, especially in the field of Full Stack Engineering. I'm passionate about building socially impactful projects that can address and contribute meaningfully to pressing issues. 
@@ -97,4 +98,5 @@ Here are some of my projects that demonstrate the range of my focus areas.
   </div>
 </div>
 </footer>
-<img src="./moving-text.svg" alt="Moving Text">
+<img align="center" src="./moving-text.svg" alt="Moving Text">
+</div>
