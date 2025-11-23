@@ -93,7 +93,7 @@ Here are some of my projects that demonstrate the range of my focus areas.
   <img src="https://profile-counter.glitch.me/{Pal-96}/count.svg" alt="Visitor Count"/>-->
 
   <div style="overflow: hidden; white-space: nowrap;">
-  <div style="display: inline-block; padding-left: 100%; animation: slide 10s linear infinite; center">
+  <div style="display: inline-block; animation: slide 10s linear infinite; center">
   </div>
 </div>
 </footer>
