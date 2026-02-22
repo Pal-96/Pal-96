@@ -6,7 +6,7 @@ Through my industry and M.S. experience, I've developed expertise in building sc
 </br></br>
 
 ## Technical Projects <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VoNjgzNmJ3ZzE5OGc1bzZtYWw3d3hkMXc4c3B3cHc3bHV3ZWl4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1E6n392K9E1lypVEM/giphy.webp" alt="About Me" width="25"/>
-Here are some of my projects that demonstrate the range of my focus areas.
+Below are a few projects that reflect the breadth of my technical expertise and areas of interest.
 
 <img width="626" alt="Projects" src="proj-sum.jpeg">
 
